@@ -18,10 +18,6 @@
 
 ### Languages
 - Python
-- SQL
-- HTML
-- CSS
-- JavaScrip
 
 ### Tools
 - Git
@@ -46,7 +42,6 @@
 
 ## 📈 GitHub Stats
 
-<!-- Replace YOUR_USERNAME with your GitHub username -->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Uday111213&show_icons=true)
 
@@ -55,8 +50,8 @@
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: Coming Soon
-- 📧 Email: your-email@example.com
+- 💼 LinkedIn: https://www.linkedin.com/in/udaykondika/
+- 📧 Email: udayasrikiran5678@gmail.com
 
 ---
 
