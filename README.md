@@ -2,7 +2,6 @@
 
 <h3 align="center">Computer Science Student | Python Developer | DSA Learner | Aspiring Software Engineer</h3>
 
----
 
 ## 👨‍💻 About Me
 
@@ -12,7 +11,6 @@
 - 🚀 Building projects to improve my development skills
 - 🎯 Goal: Become a Software Engineer
 
----
 
 ## 🛠️ Tech Stack
 
@@ -30,7 +28,6 @@
 - Object-Oriented Programming
 - Problem Solving
 
----
 
 ## 📌 Current Projects
 
@@ -38,7 +35,6 @@
 - 💰 Personal Expense Tracker
 - 📖 Python Practice Repository
 
----
 
 
 ## 📫 Connect With Me
@@ -46,6 +42,5 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/udaykondika/
 - 📧 Email: udayasrikiran5678@gmail.com
 
----
 
 ⭐ Thank you for visiting my profile!
