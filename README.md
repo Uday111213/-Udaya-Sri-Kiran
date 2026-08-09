@@ -40,12 +40,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-
-https://github-readme-stats.vercel.app/api?username=Uday111213&show_icons=true
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=Uday111213&layout=compact
 
 ## 📫 Connect With Me
 
